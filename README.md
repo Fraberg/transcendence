@@ -1,2 +1,16 @@
-# transcendence
-42 project - build interactive webapp with the following stack: Docker, Rails 6, 42 OAuth, backbonejs
+# 42 last mandatory project
+- project name: transcendence
+- ref: https://fr.wikipedia.org/wiki/Transcendence
+
+# 1. usage
+
+work in progress
+
+# 2. quality readings
+
+### Backbonejs 
+- 
+
+# 3. testing
+
+work in progress
