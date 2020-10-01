@@ -12,9 +12,10 @@ work in progress
 - Compose and Rails https://docs.docker.com/compose/rails/
 - Conteneurisation (fr) https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose-fr
 
-### Backbonejs 
+### Backbone.js 
 - all stuff https://backbonejs.org/
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
+- Hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
