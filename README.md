@@ -16,6 +16,7 @@ work in progress
 - all stuff https://backbonejs.org/
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
 - Hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
+- https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
