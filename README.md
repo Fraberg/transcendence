@@ -11,6 +11,7 @@ work in progress
 ### Docker
 - Compose and Rails https://docs.docker.com/compose/rails/
 - Conteneurisation (fr) https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose-fr
+- Playlist https://www.youtube.com/playlist?list=PLn6POgpklwWqaC1pdx02SrrgOaL2ZL7G0
 
 ### Backbone.js 
 - all stuff https://backbonejs.org/
