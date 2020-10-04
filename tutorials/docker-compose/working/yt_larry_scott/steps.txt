@@ -16,9 +16,9 @@ $ brew install yarn
 # ---------------
 part 2 - https://www.youtube.com/watch?v=a7eMsiTwhvk
 
-# create .env file
+# create .env file (already done)
 
-# change database.yml
+# change database.yml (already done)
 
 $ docker-compose build
 
