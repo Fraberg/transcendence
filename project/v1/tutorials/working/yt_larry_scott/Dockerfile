@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM timbru31/ruby-node:2.5
 RUN apt-get update -qq && apt-get install -y nodejs postgresql-client
 RUN mkdir /yt_larry_scott
 WORKDIR /yt_larry_scott
