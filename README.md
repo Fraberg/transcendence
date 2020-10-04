@@ -26,6 +26,7 @@ work in progress
 
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
 
 ### Backbone.js 
 - all stuff https://backbonejs.org/
