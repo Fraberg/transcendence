@@ -22,7 +22,8 @@ work in progress
 - nice tuto p2 https://www.youtube.com/watch?v=a7eMsiTwhvk
 
 ### Ruby On Rails - the framework
-- 
+- Full doc https://guides.rubyonrails.org/index.html
+- ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
 
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
