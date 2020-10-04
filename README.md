@@ -24,9 +24,6 @@ work in progress
 ### Ruby On Rails - the framework
 - 
 
-### Database schema
-- design database schema https://dbdiagram.io/home
-
 ### Backbone.js 
 - all stuff https://backbonejs.org/
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
@@ -37,6 +34,11 @@ work in progress
 - all stuff https://api.intra.42.fr/apidoc
 - OAuth flow https://api.intra.42.fr/apidoc/guides/web_application_flow
 
-# 3. testing
+# 3. tools
+
+### Database schema
+- design database schema https://dbdiagram.io/home
+
+# 4. testing
 
 work in progress
