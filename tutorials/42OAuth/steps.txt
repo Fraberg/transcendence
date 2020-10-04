@@ -1,0 +1,5 @@
+go to https://profile.intra.42.fr/oauth/applications/new to create app
+
+once created, get UID and SECRET on https://profile.intra.42.fr/oauth/applications/xxxx
+
+python3 auth.py
