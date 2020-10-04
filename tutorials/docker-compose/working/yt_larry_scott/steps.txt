@@ -1,3 +1,5 @@
+sources: https://www.youtube.com/watch?v=vn27fUbOLbg&t=980s |https://www.youtube.com/watch?v=a7eMsiTwhvk
+
 # be sure docker deskop is launched
 
 # only if error:
