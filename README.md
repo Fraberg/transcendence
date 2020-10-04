@@ -1,6 +1,6 @@
 # 42 last mandatory project
 - project name: transcendence
-- ref: https://fr.wikipedia.org/wiki/Transcendence
+- [movie reference : Transcendence (2014)](https://en.wikipedia.org/wiki/Transcendence_(2014_film))
 
 # 1. usage
 
