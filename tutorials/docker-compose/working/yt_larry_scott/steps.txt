@@ -16,7 +16,7 @@ $ brew install yarn
 # ---------------
 part 2 - https://www.youtube.com/watch?v=a7eMsiTwhvk
 
-# create .env file (already done)
+# create .env file with "DATABASE_PASSWORD='password'" inside
 
 # change database.yml (already done)
 
