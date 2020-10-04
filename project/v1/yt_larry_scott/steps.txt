@@ -1,0 +1,25 @@
+part 1 - https://youtu.be/vn27fUbOLbg
+
+# launch docker
+
+# generate the Rails skeleton app using docker-compose run:
+$ docker-compose run web rails new . --force --no-deps --database=postgresql
+
+part 2 - https://www.youtube.com/watch?v=a7eMsiTwhvk
+
+# create .env file
+
+$ docker-compose run web bundle
+
+# create the database
+$ docker-compose run web rake db:create
+
+# not working on mac 
+$ yarn install
+$ docker-compose run web rails webpacker:install
+# ---------------
+
+# migrate the database
+$ docker-compose run web rake db:migrate
+
+$ docker-compose up
