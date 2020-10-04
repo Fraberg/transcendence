@@ -24,6 +24,9 @@ work in progress
 ### Ruby On Rails - the framework
 - 
 
+### CSS
+- A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 ### Backbone.js 
 - all stuff https://backbonejs.org/
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
