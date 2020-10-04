@@ -1,3 +1,5 @@
+# ---
+# Imports
 import requests
 from requests.auth import HTTPBasicAuth
 import os
@@ -8,8 +10,12 @@ from utils import *
 # https://stackoverflow.com/questions/25501403/storing-the-secrets-passwords-in-a-separate-file
 import config
 
-
+# ---
+# Doc:
 # https://api.intra.42.fr/apidoc/guides/web_application_flow
+
+# ---
+# Redirect users to request 42 access
 params = {
     'client_id': config.UID,
     'redirect_uri': '',
