@@ -21,6 +21,9 @@ work in progress
 - nice tuto p1 https://www.youtube.com/watch?v=vn27fUbOLbg
 - nice tuto p2 https://www.youtube.com/watch?v=a7eMsiTwhvk
 
+### Ruby - the language
+- handling exceptions https://www.synbioz.com/blog/tech/du-bon-usage-des-exceptions-en-ruby
+
 ### Ruby On Rails - the framework
 - Full doc https://guides.rubyonrails.org/index.html
 - ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
