@@ -28,6 +28,7 @@ work in progress
 - Full doc https://guides.rubyonrails.org/index.html
 - ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
 - @variables https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails
+- @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
