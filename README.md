@@ -34,13 +34,14 @@ work in progress
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
-- hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
+- [TODO] hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
 - Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4
 - Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
 - OAuth flow https://api.intra.42.fr/apidoc/guides/web_application_flow
+- OAuth2 ruby https://github.com/oauth-xx/oauth2
 
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
