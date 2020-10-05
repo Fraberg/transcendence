@@ -27,6 +27,7 @@ work in progress
 ### Ruby On Rails - the framework
 - Full doc https://guides.rubyonrails.org/index.html
 - ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
+- @variables https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
