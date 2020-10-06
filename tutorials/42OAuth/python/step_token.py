@@ -28,3 +28,4 @@ params = {
 }
 r = requests.post('https://api.intra.42.fr/oauth/token', data=params)
 printResponse(r)
+ 
