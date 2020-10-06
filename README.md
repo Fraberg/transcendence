@@ -1,5 +1,5 @@
 # 42 last mandatory project
-- project name: transcendence
+- project name: ft_transcendence
 - [movie reference : Transcendence (2014)](https://en.wikipedia.org/wiki/Transcendence_(2014_film))
 - summary: *"ft_transcendence is a project on a language you should have never worked with. With a framework that you should have never heard of. To do something that you’ve never done before. Remind yourself of the beginning of your journey in computer science. Now look where you are standing. Time to shine"*
 
