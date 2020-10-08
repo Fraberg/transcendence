@@ -21,6 +21,7 @@ work in progress
 - Compose and Rails https://thoughtbot.com/blog/rails-on-docker
 - nice tuto p1 https://www.youtube.com/watch?v=vn27fUbOLbg
 - nice tuto p2 https://www.youtube.com/watch?v=a7eMsiTwhvk
+- [TODO] https://github.com/tushartuteja/rails-docker-compose-example
 
 ### Ruby - the language
 - handling exceptions https://www.synbioz.com/blog/tech/du-bon-usage-des-exceptions-en-ruby
