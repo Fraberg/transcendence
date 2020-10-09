@@ -1,6 +1,7 @@
 # 42 last mandatory project
-- project name: transcendence
+- project name: ft_transcendence
 - [movie reference : Transcendence (2014)](https://en.wikipedia.org/wiki/Transcendence_(2014_film))
+- summary: *"ft_transcendence is a project on a language you should have never worked with. With a framework that you should have never heard of. To do something that you’ve never done before. Remind yourself of the beginning of your journey in computer science. Now look where you are standing. Time to shine"*
 
 # 1. usage
 
@@ -20,6 +21,7 @@ work in progress
 - Compose and Rails https://thoughtbot.com/blog/rails-on-docker
 - nice tuto p1 https://www.youtube.com/watch?v=vn27fUbOLbg
 - nice tuto p2 https://www.youtube.com/watch?v=a7eMsiTwhvk
+- [TODO] https://github.com/tushartuteja/rails-docker-compose-example
 
 ### Ruby - the language
 - handling exceptions https://www.synbioz.com/blog/tech/du-bon-usage-des-exceptions-en-ruby
@@ -33,6 +35,7 @@ work in progress
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
+- Débuter avec Backbone.js https://www.synbioz.com/blog/tech/debuter-avec-backbonejs
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
