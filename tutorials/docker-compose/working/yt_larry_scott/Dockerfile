@@ -1,5 +1,5 @@
 FROM timbru31/ruby-node:2.5
-RUN apt-get update -qq && apt-get install -y nodejs postgresql-client
+RUN apt-get update -qq && apt-get install -y nodejs postgresql-client yarn
 RUN mkdir /yt_larry_scott
 WORKDIR /yt_larry_scott
 COPY Gemfile /yt_larry_scott/Gemfile
