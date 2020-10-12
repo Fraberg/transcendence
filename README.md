@@ -39,9 +39,9 @@ work in progress
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
-- [TODO] hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
-- Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4
-- Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g
+- [not working] hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
+- [not working] Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4
+- [not working] Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
