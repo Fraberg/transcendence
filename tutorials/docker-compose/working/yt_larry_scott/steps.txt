@@ -10,6 +10,9 @@ part 1 - https://youtu.be/vn27fUbOLbg
 # only if rails file structure isn't already generated
 $ docker-compose run web rails new . --force --no-deps --database=postgresql
 
+# cf. later error logs on mac os
+$ brew install yarn
+
 # ---------------
 part 2 - https://www.youtube.com/watch?v=a7eMsiTwhvk
 
