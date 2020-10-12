@@ -1,4 +1,5 @@
-//= require underscore
+//= require jquery
+//= require jquery_ujs
 //= require backbone
 //= require yt_larry_scott
 //= require_tree ../templates

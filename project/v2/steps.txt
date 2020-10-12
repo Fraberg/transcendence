@@ -41,6 +41,7 @@ part 3 - https://www.youtube.com/watch?v=lRuBxG7rTX4
 see steps in video
 and https://github.com/meleyal/backbone-on-rails
 
+$ docker-compose run web rails generate backbone:scaffold entry
 
 # ---------------
 # clean files to restart
