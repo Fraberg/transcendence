@@ -3,8 +3,8 @@ window.YtLarryScott =
   Collections: {}
   Views: {}
   Routers: {}
-  init: -> alert 'Hello from Backbone!'
-  # init: ->
+  initialize: -> alert 'Hello from Backbone!'
+  # initialize: ->
   #   new YtLarryScott.Routers.Entries()
   #   Backbone.history.start()
 
