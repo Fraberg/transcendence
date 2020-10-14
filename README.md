@@ -31,8 +31,8 @@ work in progress
 - ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
 - @variables https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
-- understanding Webpacker in Rails 6 https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
-
+- excellent article: "understanding Webpacker in Rails 6" https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
+- partials start with _ https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
@@ -40,9 +40,9 @@ work in progress
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
-- ~~[not working] hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails~~
-- ~~[not working] Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
-- ~~[not working] Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
+- [not working] ~~hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails~~
+- [not working] ~~[Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
+- [not working] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
 - seems ok https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 
 ### 42 API
