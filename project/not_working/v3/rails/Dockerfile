@@ -8,6 +8,10 @@ RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources
 RUN apt update && apt install yarn
 RUN yarn --version
 
+RUN yarn add jquery
+RUN yarn add underscore
+RUN yarn add backbone
+
 RUN mkdir /ft_transcendence
 WORKDIR /ft_transcendence
 COPY ./srcs/Gemfile /ft_transcendence/Gemfile
