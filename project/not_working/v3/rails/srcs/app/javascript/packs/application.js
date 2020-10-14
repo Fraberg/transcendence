@@ -6,9 +6,9 @@
 require("@rails/ujs").start()
 require("@rails/activestorage").start()
 
-require('jquery')
-require('underscore')
-require('backbone')
+global .$ = require('jquery');
+var underscore = require('underscore')
+var backbone = require('backbone');
 
 require("channels")
 

@@ -3,3 +3,16 @@
 
 const channels = require.context('.', true, /_channel\.js$/)
 channels.keys().forEach(channels)
+
+var FtTranscendence = {
+    Models: {},
+    Collections: {},
+    Views: {},
+    Routers: {},
+    initialize: function (data) {
+        Backbone.history.start();
+        $(document).ready(alert("Hello world"));
+    }
+};
+
+$(document).ready(FtTranscendence.initialize());

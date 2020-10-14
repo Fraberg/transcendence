@@ -4,13 +4,15 @@
 #= require_tree ./views
 #= require_tree ./routers
 
+global .$ = require('jquery');
+var backbone = require('backbone');
+
 window.FtTranscendence =
   Models: {}
   Collections: {}
   Views: {}
   Routers: {}
   init: -> alert('Hello from Backbone!');
-  # init: -> console.log('Hello from Backbone!');
 
 window.App = window.FtTranscendence
 
