@@ -42,6 +42,7 @@ work in progress
 - [not working] hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails
 - [not working] Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4
 - [not working] Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g
+- seems ok https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
