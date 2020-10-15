@@ -61,4 +61,6 @@ Rails.application.configure do
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
   # https://stackoverflow.com/questions/29417328/how-to-disable-cannot-render-console-from-on-rails
   config.web_console.whiny_requests = false
+  # https://kitt.lewagon.com/camps/101/lectures/05-Rails%2F06-Airbnb-Devise#
+  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
 end
