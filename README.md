@@ -21,7 +21,6 @@ work in progress
 - Compose and Rails https://thoughtbot.com/blog/rails-on-docker
 - nice tuto p1 https://www.youtube.com/watch?v=vn27fUbOLbg
 - nice tuto p2 https://www.youtube.com/watch?v=a7eMsiTwhvk
-- [TODO] https://github.com/tushartuteja/rails-docker-compose-example
 
 ### Ruby - the language
 - handling exceptions https://www.synbioz.com/blog/tech/du-bon-usage-des-exceptions-en-ruby
@@ -33,6 +32,7 @@ work in progress
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
 - excellent article: "understanding Webpacker in Rails 6" https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
 - partials start with _ https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
+
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
@@ -44,6 +44,7 @@ work in progress
 - [not working] ~~[Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
 - [not working] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
 - seems ok https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
+- understand relations between backbone and rails https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
