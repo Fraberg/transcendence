@@ -31,7 +31,8 @@ work in progress
 - @variables https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
 - excellent article: "understanding Webpacker in Rails 6" https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
-- partials start with _ https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
+- partial name start with '_' https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
+- Action Cable for the chat https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
