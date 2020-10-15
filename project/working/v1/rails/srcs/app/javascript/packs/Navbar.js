@@ -1,15 +1,11 @@
+/* dependencies */
 import $ from "jquery"
 import _ from "underscore"
 import Backbone from "backbone"
 
-const Navbar = {};
+/* js */
 
-if ($('html')) {
-    $(() => {
-        /* Model */
-        /* View */
-        /* instanciate view */
-    })
-}
+/* code */
+const Navbar = {};
 
 export default Navbar;

@@ -3,17 +3,28 @@
 // a relevant structure within app/javascript and only use these pack files to reference
 // that code so it'll be compiled.
 
+/* à quoi ça sert ? */
 require("@rails/ujs").start()
 require("@rails/activestorage").start()
+
+/* à quoi ça sert ? */
 require("channels")
 
+/* jquery */
 global .$ = require('jquery');
 window.jQuery = $;
 window.$ = $;
 
-// const underscore = require('underscore');
+/* underscore */
 const _ = require("underscore")
 window.underscore = _;
 window._ = _;
 
+/* backbone */
 const backbone = require('backbone');
+
+/* js */
+import Entrypoint from "./Entrypoint.js"
+
+/* code */
+$(document).ready(Entrypoint.start());

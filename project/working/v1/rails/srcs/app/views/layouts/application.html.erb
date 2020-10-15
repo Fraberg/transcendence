@@ -7,12 +7,22 @@
     <%= stylesheet_link_tag 'application', media: 'all' %>
     <%= javascript_pack_tag 'application' %>
     <%= csrf_meta_tags %>
-    </head>
+  </head>
     
-    <body>
-      <p class="notice"><%= notice %></p>
-      <p class="alert"><%= alert %></p>
-      <%= render "shared/navbar"%>
-      <%= yield %>
-  </body>
+  <body data-user-signed-in="<%= user_signed_in? ? "true" : "false" %>">
+      
+    <p class="notice"><%= notice %></p>
+    <p class="alert"><%= alert %></p>
+
+    <%= render "shared/navbar"%>
+    
+    <div style="background-color:white;height:100%;width:100%;" id="view-content">
+      view-container
+    </div>
+    
+    <%= render "shared/footer"%>
+
+    <%#= yield %>
+
+    </body>
 </html>
