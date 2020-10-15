@@ -18,25 +18,26 @@ var Router = Backbone.Router.extend({
     /*
     ** handle login: https://stackoverflow.com/questions/24544793/authentication-with-devise-rails-using-backbone
     */
-    isSignedIn: function() { 
+    isSignedIn: function() {
+        console.log("isSignedIn: " + $('body').data('user-signed-in'))
         return $('body').data('user-signed-in')
     },
     /*  */
     login() {
-        console.log("-> login")
-        console.log("logged=" + this.isSignedIn())
+        this.isSignedIn()
+        console.log("req: /login")
     },
     dashboard() {
-        console.log("-> dashboard")
-        console.log("logged=" + this.isSignedIn())
+        this.isSignedIn()
+        console.log("req: /dashboard")
     },
     game(id) {
-        console.log("-> game with the id of "+ id)
-        console.log("logged=" + this.isSignedIn())
+        this.isSignedIn()
+        console.log("req: /game with the id of "+ id)
     },
     sign_up() {
-        console.log("-> sign_up")
-        console.log("logged=" + this.isSignedIn())
+        this.isSignedIn()
+        console.log("req: /sign_up")
     }
 });
 
