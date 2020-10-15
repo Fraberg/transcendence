@@ -11,6 +11,7 @@ var FtTranscendence = {
     Routers: {},
     initialize: function (data) {
         Backbone.history.start();
+        Navbar.render();
         $(document).ready(alert("Hello world"));
     }
 };

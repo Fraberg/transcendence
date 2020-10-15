@@ -58,11 +58,6 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    backbone-on-rails (1.2.0.0)
-      eco
-      ejs
-      jquery-rails
-      railties
     bindex (0.8.1)
     bootsnap (1.4.8)
       msgpack (~> 1.0)
@@ -86,12 +81,6 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.7)
     crass (1.0.6)
-    eco (1.0.0)
-      coffee-script
-      eco-source
-      execjs
-    eco-source (1.1.0.rc.1)
-    ejs (1.1.1)
     erubi (1.9.0)
     execjs (2.7.0)
     ffi (1.13.1)
@@ -222,7 +211,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  backbone-on-rails
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
