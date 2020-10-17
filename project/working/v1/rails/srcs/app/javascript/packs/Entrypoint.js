@@ -5,6 +5,7 @@ import Backbone from "backbone"
 
 /* js */
 import Router from "./Router.js"
+/* components */
 import Navbar from "./Navbar.js"
 
 /* code */
@@ -20,6 +21,9 @@ Entrypoint.start = function() {
 
     /* render components */
     // Navbar.render();
+    // Chat.render();
+    // Pong.render();
+    // Profile.render();
 }
 
 export default Entrypoint;

@@ -7,7 +7,7 @@
 require("@rails/ujs").start()
 require("@rails/activestorage").start()
 
-/* à quoi ça sert ? */
+/* require les fichiers dans ../channels/*.js */
 require("channels")
 
 /* jquery */

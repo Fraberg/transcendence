@@ -9,6 +9,7 @@ import Backbone from "backbone"
 var Router = Backbone.Router.extend({
     /*  */
     routes: {
+        // url address      js function
         "":                 "login",
         "dashboard":        "dashboard",
         "game/:id":         "game",
@@ -24,20 +25,20 @@ var Router = Backbone.Router.extend({
     },
     /*  */
     login() {
-        this.isSignedIn()
-        console.log("req: /login")
+        // this.isSignedIn()
+        console.log("requested route: /login")
     },
     dashboard() {
-        this.isSignedIn()
-        console.log("req: /dashboard")
+        // this.isSignedIn()
+        console.log("requested route: /dashboard")
     },
     game(id) {
-        this.isSignedIn()
-        console.log("req: /game with the id of "+ id)
+        // this.isSignedIn()
+        console.log("requested route: /game with the id of "+ id)
     },
     sign_up() {
-        this.isSignedIn()
-        console.log("req: /sign_up")
+        // this.isSignedIn()
+        console.log("requested route: /sign_up")
     }
 });
 

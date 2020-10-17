@@ -8,4 +8,6 @@ import Backbone from "backbone"
 /* code */
 const Navbar = {};
 
+// eventListener(balise html, function())
+
 export default Navbar;
