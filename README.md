@@ -5,7 +5,9 @@
 
 # 1. usage
 
-work in progress
+```
+docker-compose up
+```
 
 # 2. quality readings 
 
