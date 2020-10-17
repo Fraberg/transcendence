@@ -32,12 +32,13 @@ work in progress
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
 - excellent article: "understanding Webpacker in Rails 6" https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
 - partial name start with '_' https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
-- Action Cable for the chat https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
+- Devise & omniauth https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
 - Débuter avec Backbone.js https://www.synbioz.com/blog/tech/debuter-avec-backbonejs
+- ActionCable https://www.youtube.com/watch?v=rIGPVEAeA6M
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
@@ -46,6 +47,8 @@ work in progress
 - [not working] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
 - seems ok https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 - understand relations between backbone and rails https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
+- auth with devise and backbone https://stackoverflow.com/questions/24544793/authentication-with-devise-rails-using-backbone
+- auth with devise and backbone https://blog.andrewray.me/how-to-set-up-devise-ajax-authentication-with-rails-4-0/
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
