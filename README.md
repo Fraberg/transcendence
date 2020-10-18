@@ -64,11 +64,10 @@ docker-compose up -build
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
 
-# 3. tools
+# 3. Utils
 
 ### Database schema
-- design database schema https://dbdiagram.io/home
-
-# 4. testing
 
 work in progress
+
+![DB](db/db.png)
