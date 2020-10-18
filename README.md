@@ -36,6 +36,9 @@ docker-compose up
 - partial name start with '_' https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
 - Devise & omniauth https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
 
+### Javascript - the language
+- DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
+
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
