@@ -34,16 +34,16 @@ docker-compose up
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
 - excellent article: "understanding Webpacker in Rails 6" https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
 - partial name start with '_' https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
-- Devise & omniauth https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
+- Devise & omniauth https://www.youtube.com/watch?v=rIGPVEAeA6M
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
+- ActionCable https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
 - Débuter avec Backbone.js https://www.synbioz.com/blog/tech/debuter-avec-backbonejs
-- ActionCable https://www.youtube.com/watch?v=rIGPVEAeA6M
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
