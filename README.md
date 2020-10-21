@@ -68,6 +68,10 @@ docker-compose up -build
 
 # 3. Utils
 
+### Formating
+
+- http response to json https://jsonformatter.curiousconcept.com/#
+
 ### Database schema
 
 work in progress
