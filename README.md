@@ -26,6 +26,7 @@ docker-compose up -build
 
 ### Ruby - the language
 - handling exceptions https://www.synbioz.com/blog/tech/du-bon-usage-des-exceptions-en-ruby
+- models associations https://guides.rubyonrails.org/association_basics.html
 
 ### Ruby On Rails - the framework
 - Full doc https://guides.rubyonrails.org/index.html
