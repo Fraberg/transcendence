@@ -14,7 +14,7 @@ docker-compose up -build
 ### Docker
 - install https://docs.docker.com/compose/install/
 - YT playlist (fr) https://www.youtube.com/playlist?list=PLn6POgpklwWqaC1pdx02SrrgOaL2ZL7G0
-- clean all with ```docker system prune -a``` https://docs.docker.com/engine/reference/commandline/system_prune/
+- clean all with ```docker system prune --all --volumes``` https://docs.docker.com/engine/reference/commandline/system_prune/
 ### set up Rails on Docker
 - nice article https://www.codewithjason.com/dockerize-rails-application/ 
 - Compose and Rails https://docs.docker.com/compose/rails/
