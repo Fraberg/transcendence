@@ -50,9 +50,9 @@ docker-compose up -build
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
-- [not working] ~~hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails~~
-- [not working] ~~[Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
-- [not working] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
+- [outdated] ~~hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails~~
+- [outdated] ~~[Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
+- [outdated] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
 - seems ok https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 - understand relations between backbone and rails https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 - auth with devise and backbone https://stackoverflow.com/questions/24544793/authentication-with-devise-rails-using-backbone
