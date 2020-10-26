@@ -38,6 +38,7 @@ docker-compose up -build
 - Devise & omniauth https://www.youtube.com/watch?v=rIGPVEAeA6M
 - types of variables for rails models https://stackoverflow.com/questions/3260345/list-of-rails-model-types
 - rails routes https://api.rubyonrails.org/v5.2.1/classes/ActionDispatch/Routing/Mapper/Resources.html
+- select & pluck https://medium.com/@amliving/activerecords-select-pluck-3d5c58872053
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
