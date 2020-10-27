@@ -40,6 +40,9 @@ docker-compose up -build
 - rails routes https://api.rubyonrails.org/v5.2.1/classes/ActionDispatch/Routing/Mapper/Resources.html
 - select & pluck https://medium.com/@amliving/activerecords-select-pluck-3d5c58872053
 - application controller https://stackoverflow.com/questions/45340321/what-properties-and-methods-does-an-application-controller-have
+- ActionCable
+  - full doc https://guides.rubyonrails.org/action_cable_overview.html
+  - action cable basics in Rails 6 https://www.youtube.com/watch?v=t9iubpbqmnM
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
