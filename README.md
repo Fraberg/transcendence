@@ -43,6 +43,7 @@ docker-compose up -build
 - ActionCable
   - full doc https://guides.rubyonrails.org/action_cable_overview.html
   - action cable basics in Rails 6 https://www.youtube.com/watch?v=t9iubpbqmnM
+- call another controller action https://stackoverflow.com/questions/5767222/rails-call-another-controller-action-from-a-controller
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
