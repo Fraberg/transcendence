@@ -46,6 +46,7 @@ docker-compose up -build
 - call another controller action https://stackoverflow.com/questions/5767222/rails-call-another-controller-action-from-a-controller
 - rake db:[cmd] https://stackoverflow.com/questions/10301794/difference-between-rake-dbmigrate-dbreset-and-dbschemaload
 - cookies https://api.rubyonrails.org/classes/ActionDispatch/Cookies.html
+- on the importance of association tables https://stackoverflow.com/questions/11600928/when-to-use-a-has-many-through-relation-in-rails
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
