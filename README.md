@@ -14,7 +14,7 @@ docker-compose up -build
 ### Docker
 - install https://docs.docker.com/compose/install/
 - YT playlist (fr) https://www.youtube.com/playlist?list=PLn6POgpklwWqaC1pdx02SrrgOaL2ZL7G0
-
+- clean all with ```docker system prune --all --volumes``` https://docs.docker.com/engine/reference/commandline/system_prune/
 ### set up Rails on Docker
 - nice article https://www.codewithjason.com/dockerize-rails-application/ 
 - Compose and Rails https://docs.docker.com/compose/rails/
@@ -26,6 +26,7 @@ docker-compose up -build
 
 ### Ruby - the language
 - handling exceptions https://www.synbioz.com/blog/tech/du-bon-usage-des-exceptions-en-ruby
+- models associations https://guides.rubyonrails.org/association_basics.html
 
 ### Ruby On Rails - the framework
 - Full doc https://guides.rubyonrails.org/index.html
@@ -35,6 +36,17 @@ docker-compose up -build
 - excellent article: "understanding Webpacker in Rails 6" https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
 - partial name start with '_' https://stackoverflow.com/questions/25353108/why-do-partials-in-rails-start-with-an-underscore
 - Devise & omniauth https://www.youtube.com/watch?v=rIGPVEAeA6M
+- types of variables for rails models https://stackoverflow.com/questions/3260345/list-of-rails-model-types
+- rails routes https://api.rubyonrails.org/v5.2.1/classes/ActionDispatch/Routing/Mapper/Resources.html
+- select & pluck https://medium.com/@amliving/activerecords-select-pluck-3d5c58872053
+- application controller https://stackoverflow.com/questions/45340321/what-properties-and-methods-does-an-application-controller-have
+- ActionCable
+  - full doc https://guides.rubyonrails.org/action_cable_overview.html
+  - action cable basics in Rails 6 https://www.youtube.com/watch?v=t9iubpbqmnM
+- call another controller action https://stackoverflow.com/questions/5767222/rails-call-another-controller-action-from-a-controller
+- rake db:[cmd] https://stackoverflow.com/questions/10301794/difference-between-rake-dbmigrate-dbreset-and-dbschemaload
+- cookies https://api.rubyonrails.org/classes/ActionDispatch/Cookies.html
+- on the importance of association tables https://stackoverflow.com/questions/11600928/when-to-use-a-has-many-through-relation-in-rails
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
@@ -47,9 +59,9 @@ docker-compose up -build
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
-- [not working] ~~hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails~~
-- [not working] ~~[Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
-- [not working] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
+- [outdated] ~~hands-on Backbone.js on Rails https://thoughtbot.com/upcase/hands-on-backbone-js-on-rails~~
+- [outdated] ~~[Backbone on Rails Part 1 https://www.youtube.com/watch?v=lRuBxG7rTX4~~
+- [outdated] ~~[Backbone on Rails Part 2 https://www.youtube.com/watch?v=98oUGEz_y4g~~
 - seems ok https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 - understand relations between backbone and rails https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 - auth with devise and backbone https://stackoverflow.com/questions/24544793/authentication-with-devise-rails-using-backbone
@@ -59,16 +71,20 @@ docker-compose up -build
 - all stuff https://api.intra.42.fr/apidoc
 - OAuth flow https://api.intra.42.fr/apidoc/guides/web_application_flow
 - OAuth2 ruby https://github.com/oauth-xx/oauth2
+- wtf is refresh token https://zestedesavoir.com/articles/1616/comprendre-oauth-2-0-par-lexemple/#:~:text=Token%20de%20rafra%C3%AEchissement%20%3A%20Refresh%20token,que%20celui%2Dci%20a%20expir%C3%A9.&text=Son%20utilisation%20permet%20au%20client,propri%C3%A9taire%20de%20la%20ressource%20prot%C3%A9g%C3%A9e.
 
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
 
-# 3. tools
+# 3. Utils
+
+### Formating
+
+- http response to json https://jsonformatter.curiousconcept.com/#
 
 ### Database schema
-- design database schema https://dbdiagram.io/home
-
-# 4. testing
 
 work in progress
+
+![DB](db/db.png)
