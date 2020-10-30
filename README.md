@@ -87,6 +87,5 @@ docker-compose up -build
 
 work in progress
 
-![DB](db/db.png)
 
 
