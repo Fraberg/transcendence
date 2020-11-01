@@ -49,6 +49,8 @@ docker-compose up -build
 - cookies https://api.rubyonrails.org/classes/ActionDispatch/Cookies.html
 - on the importance of association tables https://stackoverflow.com/questions/11600928/when-to-use-a-has-many-through-relation-in-rails
 - return json https://stackoverflow.com/questions/25074631/converting-activerecord-results-to-json-in-transaction-script
+- js fast reloading to avoid webpacker compiling https://stackoverflow.com/questions/52281821/webpacker-in-rails-5-takes-a-long-time-to-compile-not-that-many-files-how-can-i
+- issue related to js fast reloading https://github.com/webpack/webpack-dev-server/issues/416
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
