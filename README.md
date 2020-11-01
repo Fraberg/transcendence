@@ -15,6 +15,7 @@ docker-compose up -build
 - install https://docs.docker.com/compose/install/
 - YT playlist (fr) https://www.youtube.com/playlist?list=PLn6POgpklwWqaC1pdx02SrrgOaL2ZL7G0
 - clean all with ```docker system prune --all --volumes``` https://docs.docker.com/engine/reference/commandline/system_prune/
+
 ### set up Rails on Docker
 - nice article https://www.codewithjason.com/dockerize-rails-application/ 
 - Compose and Rails https://docs.docker.com/compose/rails/
@@ -47,6 +48,7 @@ docker-compose up -build
 - rake db:[cmd] https://stackoverflow.com/questions/10301794/difference-between-rake-dbmigrate-dbreset-and-dbschemaload
 - cookies https://api.rubyonrails.org/classes/ActionDispatch/Cookies.html
 - on the importance of association tables https://stackoverflow.com/questions/11600928/when-to-use-a-has-many-through-relation-in-rails
+- return json https://stackoverflow.com/questions/25074631/converting-activerecord-results-to-json-in-transaction-script
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
