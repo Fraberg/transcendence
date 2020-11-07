@@ -78,6 +78,10 @@ docker-compose up -build
 - OAuth2 ruby https://github.com/oauth-xx/oauth2
 - wtf is refresh token https://zestedesavoir.com/articles/1616/comprendre-oauth-2-0-par-lexemple/#:~:text=Token%20de%20rafra%C3%AEchissement%20%3A%20Refresh%20token,que%20celui%2Dci%20a%20expir%C3%A9.&text=Son%20utilisation%20permet%20au%20client,propri%C3%A9taire%20de%20la%20ressource%20prot%C3%A9g%C3%A9e.
 
+### Two-factors auth
+- tuto https://en.wikipedia.org/wiki/One-time_password_to_work.
+- git https://github.com/heapsource/active_model_otp
+
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
