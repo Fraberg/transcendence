@@ -81,6 +81,7 @@ docker-compose up -build
 ### Two-factors auth
 - tuto https://en.wikipedia.org/wiki/One-time_password_to_work.
 - git https://github.com/heapsource/active_model_otp
+- qrcode https://github.com/heapsource/active_model_otp/wiki/Generate-QR-code-with-rqrcode-gem
 
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
