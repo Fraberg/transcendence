@@ -80,7 +80,7 @@ docker-compose up -build
 - rails status code mapping http://www.railsstatuscodes.com/
 
 ### Two-factors auth
-- tuto https://en.wikipedia.org/wiki/One-time_password_to_work.
+- tuto https://en.wikipedia.org/wiki/One-time_password#:~:text=A%20one%2Dtime%20password%20(OTP,system%20or%20other%20digital%20device.
 - git https://github.com/heapsource/active_model_otp
 - qrcode https://github.com/heapsource/active_model_otp/wiki/Generate-QR-code-with-rqrcode-gem
 
