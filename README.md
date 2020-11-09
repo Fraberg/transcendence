@@ -31,6 +31,7 @@ docker-compose up -build
 
 ### Ruby On Rails - the framework
 - Full doc https://guides.rubyonrails.org/index.html
+- Rails Cheat Sheet: Create Models, Tables and Migrations https://www.ralfebert.de/snippets/ruby-rails/models-tables-migrations-cheat-sheet/?utm_source=lewagon.com
 - ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
 - @variables https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
@@ -52,6 +53,11 @@ docker-compose up -build
 - js fast reloading to avoid webpacker compiling https://stackoverflow.com/questions/52281821/webpacker-in-rails-5-takes-a-long-time-to-compile-not-that-many-files-how-can-i
 - issue related to js fast reloading https://github.com/webpack/webpack-dev-server/issues/416
 - 70+ Ruby on Rails Security Best Practices & Vulnerabilities https://hixonrails.com/ruby-on-rails-tutorials/ruby-on-rails-security-best-practices/?utm_source=lewagon.com
+- about schema and data migrations https://boringrails.com/articles/rails-database-migrations-strategy-how-to-manage-migrations-without-losing-your-mind/
+- class macros https://pragmaticstudio.com/tutorials/ruby-macros?utm_source=lewagon.com
+- upload remote file from url with ActiveStorage Rails https://blog.eq8.eu/til/upload-remote-file-from-url-with-activestorage-rails.html?utm_source=lewagon.com
+- about image hosting https://medium.com/@nicolas.lizop/displaying-random-images-on-a-rails-website-with-picsum-unsplash-and-cloudinary-842e026181be
+- cloudinary sdk https://cloudinary.com/documentation/rails_integration
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
@@ -81,6 +87,7 @@ docker-compose up -build
 - OAuth2 ruby https://github.com/oauth-xx/oauth2
 - wtf is refresh token https://zestedesavoir.com/articles/1616/comprendre-oauth-2-0-par-lexemple/#:~:text=Token%20de%20rafra%C3%AEchissement%20%3A%20Refresh%20token,que%20celui%2Dci%20a%20expir%C3%A9.&text=Son%20utilisation%20permet%20au%20client,propri%C3%A9taire%20de%20la%20ressource%20prot%C3%A9g%C3%A9e.
 - rails status code mapping http://www.railsstatuscodes.com/
+- how to login https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578
 
 ### Two-factors auth
 - tuto https://en.wikipedia.org/wiki/One-time_password#:~:text=A%20one%2Dtime%20password%20(OTP,system%20or%20other%20digital%20device.
@@ -98,6 +105,7 @@ docker-compose up -build
 
 - http response to json https://jsonformatter.curiousconcept.com/#
 - url decoder https://www.urldecoder.io/
+- vs code extensions https://medium.com/better-programming/vs-code-extensions-for-ruby-on-rails-developers-917474e03e04
 
 ### Database schema
 
