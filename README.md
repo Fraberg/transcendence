@@ -56,6 +56,8 @@ docker-compose up -build
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
 - ActionCable https://medium.com/@jelaniwoods/get-started-with-action-cable-in-rails-6-4c605f93c9b8
 - confirm() https://stackoverflow.com/questions/6384251/intercepting-a-jquery-ajax-call-with-confirm
+- fetch() vs ajax request https://blog.nathanaelcherrier.com/fr/fetch-fin-jquery-ajax/
+- fetch https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/fetch
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
