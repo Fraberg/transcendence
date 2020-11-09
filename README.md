@@ -87,6 +87,7 @@ docker-compose up -build
 ### CSS
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
+- override boostrap https://stackoverflow.com/questions/44449372/override-bootstrap-important
 
 # 3. Utils
 
