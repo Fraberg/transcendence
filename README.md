@@ -58,6 +58,7 @@ docker-compose up -build
 - upload remote file from url with ActiveStorage Rails https://blog.eq8.eu/til/upload-remote-file-from-url-with-activestorage-rails.html?utm_source=lewagon.com
 - about image hosting https://medium.com/@nicolas.lizop/displaying-random-images-on-a-rails-website-with-picsum-unsplash-and-cloudinary-842e026181be
 - cloudinary sdk https://cloudinary.com/documentation/rails_integration
+- why rails still relevant https://devbrett.com/2019/03/why-i-believe-rails-is-still-relevant-in-2019.html?utm_source=lewagon.com
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
