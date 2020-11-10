@@ -60,6 +60,8 @@ docker-compose up -build
 - cloudinary sdk https://cloudinary.com/documentation/rails_integration
 - why rails still relevant https://devbrett.com/2019/03/why-i-believe-rails-is-still-relevant-in-2019.html?utm_source=lewagon.com
 - find vs find by vs where https://stackoverflow.com/questions/11161663/find-vs-find-by-vs-where
+- download file from url https://stackoverflow.com/questions/2515931/how-can-i-download-a-file-from-a-url-and-save-it-in-rails
+- cloudinary https://github.com/cloudinary/cloudinary_gem
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
