@@ -111,6 +111,7 @@ docker-compose up -build
 - http response to json https://jsonformatter.curiousconcept.com/#
 - url decoder https://www.urldecoder.io/
 - vs code extensions https://medium.com/better-programming/vs-code-extensions-for-ruby-on-rails-developers-917474e03e04
+- get postgresql version https://makandracards.com/makandra/42104-rails-how-to-get-postgresql-version-being-used
 
 ### Database schema
 
