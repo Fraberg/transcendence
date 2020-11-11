@@ -102,7 +102,7 @@ docker-compose up -build
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
 - override boostrap https://stackoverflow.com/questions/44449372/override-bootstrap-important
-- vh https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window
+- vh vw https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window
 
 # 3. Utils
 
