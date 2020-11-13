@@ -76,6 +76,7 @@ docker-compose up -build
 - all stuff https://backbonejs.org/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
 - Débuter avec Backbone.js https://www.synbioz.com/blog/tech/debuter-avec-backbonejs
+- a library, not a framework http://nicholasjohnson.com/backbone-book/
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
