@@ -75,8 +75,9 @@ docker-compose up -build
 - jquery events https://developer.mozilla.org/fr/docs/Web/API/Element
 - cloudinary js https://cloudinary.com/documentation/javascript_integration#overview
 
-### Backbone.js - the framework
+### Backbone.js - the framework (library ?)
 - all stuff https://backbonejs.org/
+- fundamentals https://backbone-fundamentals.readthedocs.io/en/latest/
 - YT playlist https://www.youtube.com/watch?v=mBKL7BU6axo&list=PLsk5Jy2ZkiLUP6KbXNDwNSZ1-MXsnt4An
 - Débuter avec Backbone.js https://www.synbioz.com/blog/tech/debuter-avec-backbonejs
 - a library, not a framework http://nicholasjohnson.com/backbone-book/
