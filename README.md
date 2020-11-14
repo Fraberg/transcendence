@@ -78,7 +78,7 @@ docker-compose up -build
 - Débuter avec Backbone.js https://www.synbioz.com/blog/tech/debuter-avec-backbonejs
 - a library, not a framework http://nicholasjohnson.com/backbone-book/
 - events catalog https://backbonejs.org/#Events-catalog
-- todo https://github.com/tastejs/todomvc/tree/master/examples/backbone
+- todo https://github.com/tastejs/todomvc/tree/master/examples/backbone/js
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
