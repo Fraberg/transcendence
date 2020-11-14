@@ -71,6 +71,7 @@ docker-compose up -build
 - fetch() vs ajax request https://blog.nathanaelcherrier.com/fr/fetch-fin-jquery-ajax/
 - fetch https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/fetch
 - fileReader() https://developer.mozilla.org/fr/docs/Web/API/FileReader
+- jquery events https://developer.mozilla.org/fr/docs/Web/API/Element
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
