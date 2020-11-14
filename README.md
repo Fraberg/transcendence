@@ -73,6 +73,7 @@ docker-compose up -build
 - fetch https://developer.mozilla.org/fr/docs/Web/API/WindowOrWorkerGlobalScope/fetch
 - fileReader() https://developer.mozilla.org/fr/docs/Web/API/FileReader
 - jquery events https://developer.mozilla.org/fr/docs/Web/API/Element
+- cloudinary js https://cloudinary.com/documentation/javascript_integration#overview
 
 ### Backbone.js - the framework
 - all stuff https://backbonejs.org/
