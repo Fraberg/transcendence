@@ -80,6 +80,7 @@ docker-compose up -build
 - a library, not a framework http://nicholasjohnson.com/backbone-book/
 - events catalog https://backbonejs.org/#Events-catalog
 - todo https://github.com/tastejs/todomvc/tree/master/examples/backbone/js
+- views https://solvemprobler.com/blog/2013/04/07/backbone-tips-rendering-views-and-their-childviews/
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
