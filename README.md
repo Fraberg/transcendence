@@ -63,6 +63,7 @@ docker-compose up -build
 - download file from url https://stackoverflow.com/questions/2515931/how-can-i-download-a-file-from-a-url-and-save-it-in-rails
 - cloudinary https://github.com/cloudinary/cloudinary_gem
 - open param image in controller https://api.rubyonrails.org/v4.2.5/classes/ActionDispatch/Request.html
+- get public url after cloudinary upload https://stackoverflow.com/questions/36200818/get-cloudinary-image-url
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
