@@ -74,6 +74,8 @@ docker-compose up -build
 - fileReader() https://developer.mozilla.org/fr/docs/Web/API/FileReader
 - jquery events https://developer.mozilla.org/fr/docs/Web/API/Element
 - cloudinary js https://cloudinary.com/documentation/javascript_integration#overview
+- handling success/error messages after actions https://sweetalert2.github.io/#examples
+- iterating over object key/value pairs https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object
 
 ### Backbone.js - the framework (library ?)
 - all stuff https://backbonejs.org/
