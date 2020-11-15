@@ -64,6 +64,8 @@ docker-compose up -build
 - cloudinary https://github.com/cloudinary/cloudinary_gem
 - open param image in controller https://api.rubyonrails.org/v4.2.5/classes/ActionDispatch/Request.html
 - get public url after cloudinary upload https://stackoverflow.com/questions/36200818/get-cloudinary-image-url
+- server side validations https://guides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
+- background job with active job https://edgeguides.rubyonrails.org/active_job_basics.html
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
