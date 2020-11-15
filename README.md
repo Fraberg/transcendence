@@ -6,7 +6,7 @@
 # 1. usage
 
 ```
-docker-compose up -build
+docker-compose up --build
 ```
 
 # 2. quality readings 
