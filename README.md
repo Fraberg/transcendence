@@ -66,6 +66,9 @@ docker-compose up --build
 - get public url after cloudinary upload https://stackoverflow.com/questions/36200818/get-cloudinary-image-url
 - server side validations https://guides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 - background job with active job https://edgeguides.rubyonrails.org/active_job_basics.html
+- call controller_a.method from controller_b https://stackoverflow.com/questions/5767222/rails-call-another-controller-action-from-a-controller
+- OPP https://stackoverflow.com/questions/42164276/rails-private-vs-protected
+- test controller method in console https://stackoverflow.com/questions/10670360/calling-an-applicationcontroller-method-from-console-in-rails
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
