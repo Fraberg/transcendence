@@ -81,6 +81,7 @@ docker-compose up --build
 - cloudinary js https://cloudinary.com/documentation/javascript_integration#overview
 - handling success/error messages after actions https://sweetalert2.github.io/#examples
 - iterating over object key/value pairs https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object
+- listen if user quit web page https://stackoverflow.com/questions/147636/best-way-to-detect-when-a-user-leaves-a-web-page
 
 ### Backbone.js - the framework (library ?)
 - all stuff https://backbonejs.org/
