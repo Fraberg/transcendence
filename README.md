@@ -69,6 +69,8 @@ docker-compose up --build
 - call controller_a.method from controller_b https://stackoverflow.com/questions/5767222/rails-call-another-controller-action-from-a-controller
 - OPP https://stackoverflow.com/questions/42164276/rails-private-vs-protected
 - test controller method in console https://stackoverflow.com/questions/10670360/calling-an-applicationcontroller-method-from-console-in-rails
+- 2 reference on the same model https://stackoverflow.com/questions/2057210/ruby-on-rails-reference-the-same-model-twice
+- call model method with ajax https://stackoverflow.com/questions/27471914/rails-call-model-methods-with-ajax
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
