@@ -9,7 +9,7 @@
 docker-compose up --build
 ```
 
-# 2. selected readings 
+# 2. some readings 
 
 ### Docker
 - install https://docs.docker.com/compose/install/
