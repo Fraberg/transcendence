@@ -32,6 +32,7 @@ docker-compose up --build
 ### Ruby On Rails - the framework
 - Full doc https://guides.rubyonrails.org/index.html
 - Rails Cheat Sheet: Create Models, Tables and Migrations https://www.ralfebert.de/snippets/ruby-rails/models-tables-migrations-cheat-sheet/?utm_source=lewagon.com
+- destroy scaffold https://stackoverflow.com/questions/21487817/rails-destroy-scaffold-leaves-back-table
 - ActiveRecords https://guides.rubyonrails.org/active_record_basics.html
 - @variables https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails
 - @variables in details http://strugglingwithruby.blogspot.com/2010/03/variables.html
@@ -71,6 +72,7 @@ docker-compose up --build
 - test controller method in console https://stackoverflow.com/questions/10670360/calling-an-applicationcontroller-method-from-console-in-rails
 - 2 reference on the same model https://stackoverflow.com/questions/2057210/ruby-on-rails-reference-the-same-model-twice
 - call model method with ajax https://stackoverflow.com/questions/27471914/rails-call-model-methods-with-ajax
+- merge to active record results https://stackoverflow.com/questions/21876590/merge-two-active-record-results
 
 ### Javascript - the language
 - DOM, interactions avec le DOM et code asynchrone https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web
@@ -112,6 +114,8 @@ docker-compose up --build
 - wtf is refresh token https://zestedesavoir.com/articles/1616/comprendre-oauth-2-0-par-lexemple/#:~:text=Token%20de%20rafra%C3%AEchissement%20%3A%20Refresh%20token,que%20celui%2Dci%20a%20expir%C3%A9.&text=Son%20utilisation%20permet%20au%20client,propri%C3%A9taire%20de%20la%20ressource%20prot%C3%A9g%C3%A9e.
 - rails status code mapping http://www.railsstatuscodes.com/
 - how to login https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578
+- gold tips https://stackoverflow.com/questions/2057210/ruby-on-rails-reference-the-same-model-twice
+- call model method with ajax https://stackoverflow.com/questions/27471914/rails-call-model-methods-with-ajax
 
 ### Two-factors auth
 - tuto https://en.wikipedia.org/wiki/One-time_password#:~:text=A%20one%2Dtime%20password%20(OTP,system%20or%20other%20digital%20device.
