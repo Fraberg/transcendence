@@ -96,6 +96,7 @@ docker-compose up --build
 - events catalog https://backbonejs.org/#Events-catalog
 - todo https://github.com/tastejs/todomvc/tree/master/examples/backbone/js
 - views https://solvemprobler.com/blog/2013/04/07/backbone-tips-rendering-views-and-their-childviews/
+- to explore https://stackoverflow.com/questions/31015284/backbone-listento-vs-this-listento
 
 ### Rails w/ Backbone.js 
 - backbone on rails https://github.com/jashkenas/backbone/wiki/Tutorials%2C-blog-posts-and-example-sites#screencasts-and-presentation-videos
