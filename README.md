@@ -127,6 +127,7 @@ docker-compose up --build
 - Bootstrap https://getbootstrap.com/docs/4.5/components/forms/
 - override boostrap https://stackoverflow.com/questions/44449372/override-bootstrap-important
 - vh vw https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window
+- flex-grow https://developer.mozilla.org/fr/docs/Web/CSS/flex-grow
 
 # 3. Utils
 
