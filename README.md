@@ -129,6 +129,7 @@ docker-compose up --build
 - override boostrap https://stackoverflow.com/questions/44449372/override-bootstrap-important
 - vh vw https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window
 - flex-grow https://developer.mozilla.org/fr/docs/Web/CSS/flex-grow
+- nice tut https://www.slideshare.net/bpapillard/building-layouts-with-css
 
 # 3. Utils
 
