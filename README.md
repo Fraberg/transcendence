@@ -86,6 +86,7 @@ docker-compose up --build
 - handling success/error messages after actions https://sweetalert2.github.io/#examples
 - iterating over object key/value pairs https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object
 - listen if user quit web page https://stackoverflow.com/questions/147636/best-way-to-detect-when-a-user-leaves-a-web-page
+- Filter array of objects, which property matches value, returns array https://stackoverflow.com/questions/13964155/get-javascript-object-from-array-of-objects-by-value-of-property
 
 ### Backbone.js - the framework (library ?)
 - all stuff https://backbonejs.org/
