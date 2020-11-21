@@ -108,6 +108,7 @@ docker-compose up --build
 - understand relations between backbone and rails https://github.com/thoughtbot/backbone-js-on-rails/blob/master/book/rails_integration/connecting_rails_and_backbone.md
 - auth with devise and backbone https://stackoverflow.com/questions/24544793/authentication-with-devise-rails-using-backbone
 - auth with devise and backbone https://blog.andrewray.me/how-to-set-up-devise-ajax-authentication-with-rails-4-0/
+- js time ago library https://www.npmjs.com/package/javascript-time-ago
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
