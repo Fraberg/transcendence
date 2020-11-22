@@ -109,6 +109,7 @@ docker-compose up --build
 - auth with devise and backbone https://stackoverflow.com/questions/24544793/authentication-with-devise-rails-using-backbone
 - auth with devise and backbone https://blog.andrewray.me/how-to-set-up-devise-ajax-authentication-with-rails-4-0/
 - js time ago library https://www.npmjs.com/package/javascript-time-ago
+- get current_elem https://stackoverflow.com/questions/9012537/how-to-get-the-element-clicked-for-the-whole-document
 
 ### 42 API
 - all stuff https://api.intra.42.fr/apidoc
