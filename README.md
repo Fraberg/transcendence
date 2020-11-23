@@ -120,6 +120,7 @@ docker-compose up --build
 - how to login https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication/477578#477578
 - gold tips https://stackoverflow.com/questions/2057210/ruby-on-rails-reference-the-same-model-twice
 - call model method with ajax https://stackoverflow.com/questions/27471914/rails-call-model-methods-with-ajax
+- where to store token https://www.codeheroes.fr/2020/06/20/securiser-une-api-rest-3-3-gestion-du-jwt-cote-client/
 
 ### Two-factors auth
 - tuto https://en.wikipedia.org/wiki/One-time_password#:~:text=A%20one%2Dtime%20password%20(OTP,system%20or%20other%20digital%20device.
