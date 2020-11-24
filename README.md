@@ -137,6 +137,9 @@ docker-compose up --build
 - flex-grow https://developer.mozilla.org/fr/docs/Web/CSS/flex-grow
 - nice tut https://www.slideshare.net/bpapillard/building-layouts-with-css
 
+### Deploy on heroku
+- heroku cli https://www.youtube.com/watch?v=tTwGdUTR5h8&list=WL&index=5
+
 # 3. Utils
 
 ### Formating
