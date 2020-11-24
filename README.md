@@ -139,6 +139,9 @@ docker-compose up --build
 
 ### Deploy on heroku
 - heroku cli https://www.youtube.com/watch?v=tTwGdUTR5h8&list=WL&index=5
+- nice tut https://medium.com/better-programming/how-to-containerize-and-deploy-apps-with-docker-and-heroku-b1c49e5bc070
+- nice why https://philippe.bourgau.net/how-to-boot-a-new-rails-project-with-docker-and-heroku/
+- doc https://devcenter.heroku.com/articles/container-registry-and-runtime
 
 # 3. Utils
 
