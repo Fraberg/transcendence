@@ -67,6 +67,7 @@ docker-compose up --build
 - cloudinary https://github.com/cloudinary/cloudinary_gem
 - open param image in controller https://api.rubyonrails.org/v4.2.5/classes/ActionDispatch/Request.html
 - get public url after cloudinary upload https://stackoverflow.com/questions/36200818/get-cloudinary-image-url
+- get https cloudinary urls https://support.cloudinary.com/hc/en-us/articles/202520362-Can-Cloudinary-s-imaged-be-served-via-SSL-HTTPS-
 - server side validations https://guides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
 - background job with active job https://edgeguides.rubyonrails.org/active_job_basics.html
 - call controller_a.method from controller_b https://stackoverflow.com/questions/5767222/rails-call-another-controller-action-from-a-controller
